@@ -1,0 +1,5 @@
+com\mani\product\dao\ProductDAOImpl.class
+com\mani\product\dao\ProductDAO.class
+com\mani\product\bo\ProductBOImpl.class
+com\mani\product\bo\ProductBO.class
+com\mani\product\dto\Product.class
